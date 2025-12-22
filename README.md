@@ -1,0 +1,62 @@
+# HANA – Blue Jeans
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I think I lost my last piece
+何かが足りて無い日常に
+flash light みたいな君だった so bright
+未だにまだ目が痛い so blind
+いつだって自信がなくて
+Pretty girls 達に嫉妬して
+気づいた時にはもう捻くれて
+適当に生きてまた出掛けて
+All right いつも通りの night
+嘘みたいに綺麗な yeah
+あの夜あの時間君が恋した
+Blue jeans 古いスニーカー
+My hair was a mess 崩れたメイク
+深夜1時
+Blue jeans 古いスニーカー
+近づいて 君は言う baby
+綺麗な人だ
+Blue jeans 古いスニーカー
+ハイヒールにワンピース長い足、完璧な body
+そんな子達君は横目に私のとこへ like a fantasy
+何度も確かめたい
+「I'm not a type of girl」って言って
+それでも君は笑って
+『真夏の間だけでも信じて』
+Alright 傷付くのが怖くて
+戸惑う私を少しだって気にしてくれない
+私が恋した君は
+Blue jeans 古いスニーカー
+Your hair was a mess 汗だくで
+踊る君
+Blue jeans 古いスニーカー
+嘘でもいい そう思ってた
+次いつ会える?
+Blue jeans 古いスニーカー
+朝日が昇っても
+しばらくは一緒にいて
+未来のことなんて
+今だけは言わないで
+Blue jeans 古いスニーカー
+My hair was a mess 崩れたメイク
+深夜1時
+Blue jeans 古いスニーカー
+近づいて 君は言う baby
+綺麗な人だ
+Blue jeans 古いスニーカー
+Your hair was a mess 汗だくで
+踊る君
+Blue jeans 古いスニーカー
+嘘でもいい そう思ってた
+次いつ会える?
+Blue jeans 古いスニーカー
+(Blue jeans 古いスニーカー)
+朝日が昇っても
+しばらくは一緒にいて
+未来のことなんて
+今だけは言わないで
+```
