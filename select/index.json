@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Blue Jeans",
+  "base_artist": "HANA",
+  "createdAt": "2025-12-22T07:24:57.376643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel in Blue Jeans",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/01_Angel_in_Blue_Jeans_Train.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/02_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/03_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Jeans",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/04_Blue_Jeans_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Jeans",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/05_Blue_Jeans_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue Jeans - Interpol Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/06_Blue_Jeans_-_Interpol_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Jeans (Josh Wink Mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/07_Blue_Jeans_(Josh_Wink_Mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Jeans 2.0",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/08_Blue_Jeans_2.0_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Jeans 2.0",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/09_Blue_Jeans_2.0_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue Jeans - Gesaffelstein Remix",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/10_Blue_Jeans_-_Gesaffelstein_Remix_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blue Jeans (Gesaffelstein Remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/11_Blue_Jeans_(Gesaffelstein_Remix)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blue Jeans - Penguin Prison Remix",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/12_Blue_Jeans_-_Penguin_Prison_Remix_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blue Jeans (Penguin Prison Remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/13_Blue_Jeans_(Penguin_Prison_Remix)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blue Jeans",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/14_Blue_Jeans_Blur.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blue Jeans",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_Blue_Jeans_HANA.txt"
+    }
+  ]
+}
